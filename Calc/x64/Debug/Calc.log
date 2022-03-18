@@ -1,4 +1,0 @@
-﻿  Calc.cpp
-C:\Users\hloiv\source\repos\Exam\Calc\Calc.cpp(113,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\hloiv\source\repos\Exam\Calc\Calc.cpp(91,12): warning C4101: 'result': unreferenced local variable
-  Calc.vcxproj -> C:\Users\hloiv\source\repos\Exam\Calc\x64\Debug\Calc.exe
